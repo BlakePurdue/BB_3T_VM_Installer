@@ -7,7 +7,11 @@ Usage:
 -Git Clone Repo down
 
 -Allow execute rights for file
-chmod +x dbPackageInstaller.sh
+chmod +x dbPackageInstaller.sh appPackageInstaller.sh
 
--Execute script
+-Execute script on DB VM
 ./dbPackageInstaller.sh
+
+
+-Execute script on APP VM
+./appPackageInstaller.sh
