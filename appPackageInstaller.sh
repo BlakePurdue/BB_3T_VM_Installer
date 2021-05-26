@@ -29,6 +29,5 @@ pipenv install --three
 
 pipenv shell
 
-cp babybuddy/settings/production.example.py babybuddy/settings/production.py
 
-echo "--------Completed install for APP server VM -Now At Step 16"
+echo "--------Completed install for APP server VM -Now At Step 15"
