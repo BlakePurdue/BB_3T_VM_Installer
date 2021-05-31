@@ -10,11 +10,11 @@ Usage:
 chmod +x dbPackageInstaller.sh appPackageInstaller.sh webPackageInstaller.sh
 
 -Execute script on DB VM <br>
-./dbPackageInstaller.sh
+sudo ./dbPackageInstaller.sh
 
 
 -Execute script on APP VM <br>
-./appPackageInstaller.sh
+sudo ./appPackageInstaller.sh
 
 -Execute script on WEB VM <br>
-./webPackageInstaller.sh
+sudo ./webPackageInstaller.sh
